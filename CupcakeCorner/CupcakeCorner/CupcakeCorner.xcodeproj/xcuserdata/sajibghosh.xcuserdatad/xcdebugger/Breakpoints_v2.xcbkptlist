@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8330313D-AF88-44A6-BF6E-1E68A94E7DC4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/Order.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "saveAddress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - 7d4eb26ed4fc35c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.init() -&gt; CupcakeCorner.Address"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - 4596b567dfc01c3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.init(from: Swift.Decoder) throws -&gt; CupcakeCorner.Address"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - a39d2c67cde40b0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.saveAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - a39d2c67cde40b0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.saveAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - a39d2c67cde4091a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.saveAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D7AF2D00-C0A4-465B-8EC4-34058B4A4660 - a39d2c67cde4091a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Address.saveAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/Order.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E841495B-65B2-4172-9971-7F383E0609B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/AddressView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getAddress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E841495B-65B2-4172-9971-7F383E0609B8 - 4296e75b85d7a2f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.EmptyView, SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in CupcakeCorner.AddressView.body.getter : some"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "E841495B-65B2-4172-9971-7F383E0609B8 - b8d85b166b454c3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, CupcakeCorner.CheckoutView&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.EmptyView, SwiftUI.TupleView&lt;(SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.TextField&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in CupcakeCorner.AddressView.body.getter : some"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "E841495B-65B2-4172-9971-7F383E0609B8 - 8c0dbc01dd1df229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "E841495B-65B2-4172-9971-7F383E0609B8 - 8c0dbc01dd1df229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23EE8F6B-7381-4F4F-AC75-05389E0F64F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/AddressView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getAddress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23EE8F6B-7381-4F4F-AC75-05389E0F64F5 - e8fb255c681844c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.body.getter : some"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "23EE8F6B-7381-4F4F-AC75-05389E0F64F5 - 8c0dbc01dd1df28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "23EE8F6B-7381-4F4F-AC75-05389E0F64F5 - 8c0dbc01dd1df28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A669285-94C7-4F7E-9376-1904663DE1C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/AddressView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getAddress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A669285-94C7-4F7E-9376-1904663DE1C2 - 8c0dbc01dd1df2ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "9A669285-94C7-4F7E-9376-1904663DE1C2 - 8c0dbc01dd1df2ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.AddressView.getAddress() -&gt; ()"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sajibghosh/Documents/SwiftUI/CupcakeCorner/CupcakeCorner/CupcakeCorner/AddressView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C9EDCB8-3B58-4575-88EA-C22BA2807C92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CupcakeCorner/AddressView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAddress()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
